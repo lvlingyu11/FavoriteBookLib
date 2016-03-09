@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Final_Project_LingyuLyu">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="db2jcc4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/DB2Drivers/db2jcc4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="db2jcc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/DB2Drivers/db2jcc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="db2jcc4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/DB2Drivers/db2jcc4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="db2jcc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/DB2Drivers/db2jcc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="Final_Project_LingyuLyu"/>
+        <property name="java-output-path" value="/Final_Project_LingyuLyu/build/classes"/>
+    </wb-module>
+</project-modules>
